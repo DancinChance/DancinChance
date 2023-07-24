@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcome%20To%20My%20Profile%20:P&width=800&height=500)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcome%20To%20My%20Profile%20:P&width=900&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--
 **DancinChance/DancinChance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
